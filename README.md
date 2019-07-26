@@ -5,4 +5,4 @@ The plugin workes on a quick search algorithm, which find keywords in meta data 
 ## Version History
 V1.0 - First release on 26th July 2019
 
-> This is the First realease and the plugin is in development.
+> The plugin is not 100% accurate yet, it is still in research and development. The plugin can be installed easily on your Chrome browser from the store at: https://chrome.google.com/webstore/detail/mobile-app-features/ndjemfcfmjjpfbblbfcnlpabahccnfij
