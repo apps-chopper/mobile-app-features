@@ -1,6 +1,6 @@
 # Mobile App Features
-A simeple extention to check what will be the basic feature if the website is converted into a mobile app.
-The plugin workes on a quick search algorithm, which find keywords in meta data of the websites to determine the categories and mapps the features that are most demanded in that business vertical.
+Mobile App Features is a simeple extension to check what will be the basic feature if a website is converted into a mobile app.
+The extension works on a quick search algorithm that checks for keywords in meta data of the website and lists down the key features if the website is converted into mobile app.
 
 ## Version History
 V1.0 - First release on 26th July 2019
